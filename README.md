@@ -79,6 +79,11 @@ This dashboard offers actionable insights for entrepreneurs, highlighting perfor
 ## 🚀 Next Steps
 
 - Add visuals and screenshots of dashboard in the `/assets` folder
+- ### 📈 Sales Trend
+![Sales Trend](./assets/Sales_Overview.png)
+### 📊 Orders Trend
+![Orders Details](./assets/Order.png)
+
 - Link to [Power BI dashboard demo](#) (if published)
 - Continue iterating with new datasets and features
 
