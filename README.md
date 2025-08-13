@@ -79,9 +79,9 @@ This dashboard offers actionable insights for entrepreneurs, highlighting perfor
 ## 🚀 Next Steps
 
 - ### 📈 Sales Trend
-![Sales Trend](./assets/Sales_Overview.png)
+![Sales Trend](./assets/Orders.png)
 ### 📊 Orders Trend
-![Orders Details](./assets/Orders.png)
+![Orders Details](./assets/Sales_Overview.png)
 
 - Link to [Power BI dashboard demo](#) (if published)
 - Continue iterating with new datasets and features
