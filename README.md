@@ -83,7 +83,7 @@ This dashboard offers actionable insights for entrepreneurs, highlighting perfor
 ### 📊 Orders Trend
 ![Orders Details](./assets/Sales_Overview.png)
 
-- Link to ![Power BI dashboard demo]((https://drive.google.com/drive/folders/1toj0YobMyz9BS2Mee-lnZqv6V6Q3RIUo))
+- Explore the interactive [Power BI dashboard demo](https://drive.google.com/drive/folders/1toj0YobMyz9BS2Mee-lnZqv6V6Q3RIUo) showcasing category-level insights.
 
 - Continue iterating with new datasets and features
 
